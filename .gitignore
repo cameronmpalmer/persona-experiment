@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+# 4.1MB benchmark file, downloadable from HF; not part of the repo
+mmlu_pro_test.parquet

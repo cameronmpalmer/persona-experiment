@@ -1,0 +1,2 @@
+# Sampling only (experiment.py is std-lib + Ollama HTTP)
+pyarrow>=14.0
