@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Sample a reproducible 22-question MMLU-Pro test subset (science/engineering/law
+"""Sample a reproducible 44-question MMLU-Pro test subset (science/engineering/law
 categories, mirroring the Playing Pretend study). Reads the parquet via pyarrow."""
 
 import json
